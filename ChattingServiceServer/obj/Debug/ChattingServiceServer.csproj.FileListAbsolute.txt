@@ -1,0 +1,141 @@
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+c:\users\yikc-19009\documents\visual studio 2013\Projects\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\c#\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\채팅프로그램 만들기\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 만들기 콘솔완성\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램\7월 14일\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1차\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI 1on1\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 GUI all\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojResolveAssemblyReference.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\YIKC-19009\Desktop\자료\채팅프로그램 1차 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.Cache
+C:\Users\YIKC-19009\Desktop\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\YIKC-19009\Desktop\최종정리\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\YIKC-19009\Desktop\최종정리\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\YIKC-19009\Desktop\최종정리\채팅프로그램 완성본\6.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\Users\admin\Desktop\첫직장\스터디자료\채팅프로그램 완성본\7.채팅프로그램GUI서버\ChattingServiceServer\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe.config
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\bin\Debug\ChattingServiceServer.exe
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\bin\Debug\ChattingServiceServer.pdb
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.csprojAssemblyReference.cache
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\MainWindow.baml
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\MainWindow.g.cs
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\App.g.cs
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer_MarkupCompile.cache
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.g.resources
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.Properties.Resources.resources
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.GenerateResource.cache
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.csproj.CoreCompileInputs.cache
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.exe
+C:\study\wpf\windows_chatting_server\ChattingServiceServer\obj\Debug\ChattingServiceServer.pdb
