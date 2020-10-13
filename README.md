@@ -11,4 +11,7 @@
 > 하트비트 스레드를 통하여 클라이언트의 접속유무 확인, 클라이언트에게 현재 접속자 제공
 
 ## 클라이언트 깃허브 주소
-https://github.com/jaeho310/windows_chatting_client
+> https://github.com/jaeho310/windows_chatting_client
+
+## 코드 설명용 블로그
+> https://frozenpond.tistory.com/2
